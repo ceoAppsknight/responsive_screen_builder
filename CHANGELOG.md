@@ -1,3 +1,4 @@
 ## 0.0.1
+## 0.0.2
+* Better performance.
 
-* TODO: Describe initial release.

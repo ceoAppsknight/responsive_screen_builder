@@ -40,4 +40,4 @@ ResponsiveScreenBuilder(builder: (context, screenInformation) {
 
 
 ## Screenshot
-<img width="250px" src="./screenshots/screenshot.gif" alt="Basic Usage"/>
+<img width="250px" src="https://github.com/syedassadullahshah/responsive_screen_builder/blob/main/screenshots/screenshot.gif?raw=true" alt="Basic Usage"/>
