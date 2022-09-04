@@ -15,10 +15,6 @@ Add the following to your `pubspec.yaml` file:
 - Provides with the total size of the current screen the app is being displayed on
 - Gives the bounds that the current widget is being drawn in
 
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
 
 ## Usage
 ```dart
